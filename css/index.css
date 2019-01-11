@@ -130,6 +130,10 @@ header nav a:hover {
     margin-bottom: 20px;
 }
 
+.about{
+    padding-top: 10px;
+}
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
@@ -237,13 +241,13 @@ footer nav a {
     text-decoration: none;
 }
 
-.button {
-    font-size: 15px;
+button {
+    font-size: 13px;
     background: white;
-    width: 150px;
+    width: 100px;
     padding: 12px 0;
-    margin: 20px;
+    margin: 2px;
     text-align: center;
     border: 1px solid black;
-    border-radius: 20px;
+    border-radius: 10px;
  }
